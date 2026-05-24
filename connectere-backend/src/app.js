@@ -3,7 +3,6 @@ const cors = require('cors');
 const app = express();
 const authRoutes = require('./routes/authRoutes');
 const messageRoutes = require('./routes/messageRoutes');
-const path = require('path');
 const uploadRoutes = require('./routes/uploadRoutes');
 const friendsRoutes = require('./routes/friends');
 

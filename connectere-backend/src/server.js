@@ -72,11 +72,7 @@ io.on("connection", (socket) => {
     socket.to(room).emit("user_typing", username);
   });
 
-  //Stop typing indicator
-  socket.on("stop_typing", ({ room }) => {
-    socket.to(room).emit("user_typing", "");
-  });
-
+  
   //Send message
   socket.on("send_msg", async (data) => {
     try {
