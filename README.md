@@ -3,7 +3,7 @@
 
 ![Connectere](connectere-example.png)
 
-Connectere is a real-time chat platform build for people who want to join communities or build one. Whether you're planning hangouts or coordinating with a teamp;
+Connectere is a real-time chat platform build for people who want to join communities or build one. Whether you're planning hangouts or coordinating with a team;
 Connectere gives you organized channels, instant messaging, and a social layer all in one place. Create or join rooms, share images, stay connected with a friends list.
 It's fast, clean, and built to feel like a community.
 
